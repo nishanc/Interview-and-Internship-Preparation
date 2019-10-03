@@ -1,13 +1,28 @@
 # Interview and Internship Preparation
 **A curated list of resources.**
+- Interview and Internship Preparation
+	- [Inerview](#inerview "Inerview")
+		- [OOP Concepts](#oop-concepts "OOP Concepts")
+		- [Databases](#databases "Databases")
+		- [JavaScript Tutorial for Beginners (Complete)](#javascript-tutorial-for-beginners-complete "JavaScript Tutorial for Beginners (Complete)")
+		- [Authentication and authorization in modern JavaScript web applications](#authentication-and-authorization-in-modern-javascript-web-applications "Authentication and authorization in modern JavaScript web applications")
+		- [How to Choose the Right Database? - MongoDB, Cassandra, MySQL, HBase](#how-to-choose-the-right-database---mongodb-cassandra-mysql-hbase "How to Choose the Right Database? - MongoDB, Cassandra, MySQL, HBase")
+		- [How to Become a Better Web Developer](#how-to-become-a-better-web-developer "How to Become a Better Web Developer")
+		- [Riddles](#riddles "Riddles")
+		- [Udemy Tech](#udemy-tech "Udemy Tech")
+	- [Internship](#internship "Internship")
+		- [Stay Updated](#stay-updated "Stay Updated")
+		- [Clean Code](#clean-code "Clean Code")
+		- [Evalueate Yourself](#evalueate-yourself "Evalueate Yourself")
+		- [The Angular Compiler 4.0](#the-angular-compiler-40 "The Angular Compiler 4.0")
+		- [JavaScript Testing Introduction Tutorial](#javascript-testing-introduction-tutorial "JavaScript Testing Introduction Tutorial")
+		- [JavaScript Testing - Mocking Async Code](#javascript-testing---mocking-async-code "JavaScript Testing - Mocking Async Code")
+		- [What is WEBPACK?, How does it work?](#what-is-webpack-how-does-it-work "What is WEBPACK?, How does it work?")
+- End
 
-[TOCM]
 
-[TOC]
-
-------------
-###Inerview
-------------
+## Interview
+----
 #### OOP Concepts
 - [6 OOP Concepts in Java with examples [2019]](https://raygun.com/blog/oop-concepts-java/ "6 OOP Concepts in Java with examples [2019]")
 - [OOPS Concepts in Java with Examples](https://www.guru99.com/java-oops-concept.html "OOPS Concepts in Java with Examples")
@@ -32,8 +47,9 @@
 [![](https://img.youtube.com/vi/7yDmGnA8Hw0/0.jpg)](https://www.youtube.com/playlist?list=PLJicmE8fK0EhMjOWNNhlY4Lxg8tupXKhC "Riddles ")
 #### Udemy Tech 
 [![](https://img.youtube.com/vi/8s6UNBnXapM/0.jpg)](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ "Udemy Tech ")
-###Internship
-------------
+
+## Internship
+----
 #### Stay Updated
 - [Stack Overflow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019 "Stack Overflow Developer Survey Results 2019")
 - [Stack Overflow Developer Survey Results 2018](https://insights.stackoverflow.com/survey/2018 "Stack Overflow Developer Survey Results 2018")
