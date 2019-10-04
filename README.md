@@ -58,7 +58,7 @@
 - [These tools will help you write clean code](https://www.freecodecamp.org/news/these-tools-will-help-you-write-clean-code-da4b5401f68e/ "These tools will help you write clean code")
 - [How to write clean code? Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c "How to write clean code? Lessons learnt from “The Clean Code” — Robert C. Martin")
 
-#### Evalueate Yourself
+#### Evaluate Yourself
 - [Carrier Development Plan](https://drive.google.com/file/d/1URm4txPGX8n44W9PvmQ07_YE5drK9iDU/view?usp=sharing "Carrier Development Plan")
 - [Personal SWOT](https://www.mindtools.com/pages/article/newTMC_05_1.htm "Personal SWOT")
 
@@ -71,4 +71,4 @@
 #### What is WEBPACK?, How does it work?
 [![](https://img.youtube.com/vi/GU-2T7k9NfI/0.jpg)](https://www.youtube.com/watch?v=GU-2T7k9NfI "What is WEBPACK?, How does it work?")
 
-#End
+# End
